@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hello, I'm Peter
+**An aspiring mechatronics engineer / software developer**
+I'm interested in Software/Hardware development, 3D design and building practical prjects
 
-<!--
-**DevPeterr/DevPeterr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently focusing on improving my programming skills, developing scalable systems, and exploring embedded systems and mechanical design.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Working towards studying Mechatronics Engineering in Germany.
+
+- Interested in software development, robotics, and embedded systems.
+
+- Enjoy building projects and learning through practical implementation.
+
+- Currently developing my skills in Luau and Python.
+
+## Current Skills
+Programming:    Python and luau
+3D:             Blender
+
+## Projects
+
+- Study-App
+
+  A Python-based study application.
+
+- Blender
+
+  A collection of my Blender creations and 3D experiments.
+
+## Currently Learning
+
+- Advanced Luau and modular software architecture
+
+- C++ and embedded systems
+
+- Electronics and mechanical design
+
+## Connect
+
+GitHub: @DevPeterr
+
